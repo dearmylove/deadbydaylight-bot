@@ -1,0 +1,4 @@
+discord.py == 0.16.12
+asyncio.py == 3.4.3
+openpyxl.py == 2.5.12
+datetime == 4.3
