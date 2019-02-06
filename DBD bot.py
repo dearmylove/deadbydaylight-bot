@@ -4,7 +4,7 @@ import asyncio
 from itertools import cycle
 import random
 import openpyxl
-
+import os
 
 
 
@@ -283,5 +283,5 @@ async def on_message(message):
 
 
 
-
-client.run('NTMyNjEzMzU5ODY3MDAyODgw.Dxh69g._AJOXBIwcD9AotBKwjDi-bEAFeE')
+access_token = os.environ["BOT_TOKEN"]
+client.run(access_token)
