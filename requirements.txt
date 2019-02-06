@@ -1,29 +1,21 @@
-aiohttp        1.0.5
-async-timeout  3.0.1
-asyncio        3.4.3
-beautifulsoup4 4.7.1
-bs4            0.0.1
-certifi        2018.11.29
-chardet        3.0.4
-DateTime       4.3
-discord        0.0.2
-discord.py     0.16.12
-et-xmlfile     1.0.1
-get            2018.11.19
-idna           2.8
-jdcal          1.4
-multidict      4.5.2
-openpyxl       2.5.12
-pip            19.0.1
-post           2018.11.20
-public         2018.11.20
-pytz           2018.9
-query-string   2018.11.20
-request        2018.11.20
-requests       2.21.0
-setuptools     28.8.0
-soupsieve      1.6.2
-urllib3        1.24.1
-websockets     3.4
-youtube-dl     2019.1.2
-zope.interface 4.6.0
+
+async-timeout == 3.0.1
+asyncio      ==  3.4.3
+beautifulsoup4 ==4.7.1
+bs4            ==0.0.1
+
+DateTime      == 4.3
+
+discord.py   ==  0.16.12
+
+
+openpyxl     ==  2.5.12
+
+
+requests      == 2.21.0
+setuptools   ==  28.8.0
+
+urllib3       == 1.24.1
+
+youtube-dl    == 2019.1.2
+
